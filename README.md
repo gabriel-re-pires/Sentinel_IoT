@@ -8,10 +8,6 @@ Um sistema integrado de hardware e software para monitoramento de umidade em tem
   <img src="https://img.shields.io/badge/Database-Firebase-orange?logo=firebase" alt="Firebase"/>
 </p>
 
-# Projeto desenvolvido em colaboração por:
-- Gabriel Rezende Pires (</strong><a href="https://github.com/boosa515"><strong>GitHub</strong></a>)
-- Artur Morais Brasileiro (</strong><a href="https://github.com/Artur-Brasileiro"><strong>GitHub</strong></a>)
-
 ## Sobre o Projeto
 O sistema utiliza um microcontrolador ESP32 para ler dados do sensor e sincronizá-los em milissegundos com um aplicativo mobile em qualquer rede, emitindo alertas críticos mesmo quando o celular do usuário está com a tela bloqueada.
 
